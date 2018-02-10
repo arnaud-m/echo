@@ -11,11 +11,9 @@ Some answers to the ECHO problem in various programming languages.
 
 ECHO is distributed under the Unlicense.  
 
-
 You task is to implement the echo command for a sequence of integers: rewrite integers from input to output.
-This program is a starting point for solving more interesting other problems.
+The program is a starting point for solving more interesting problems.
 
-Follow the instructions to solve the ECHO problem.
 ** Input
    A sequence of integers (at most 200000) between 1 and 1000000.
 ** Output

@@ -1,0 +1,52 @@
+#+STARTUP: overview hidestars logdone
+#+COLUMNS: %38ITEM(Details) %7TODO(To Do) %TAGS(Context) 
+#+OPTIONS: tags:t timestamp:t todo:t TeX:t LaTeX:t          
+#+OPTIONS: skip:t @:t ::t |:t ^:t f:t
+#+LANGUAGE: en
+* ECHO: command echo
+
+[[http://unlicense.org/][https://img.shields.io/badge/License-Unlicense-blue.svg]]
+
+Some answers to the ECHO problem in various programming languages.
+
+ECHO is distributed under the Unlicense.  
+
+
+You task is to implement the echo command for a sequence of integers: rewrite integers from input to output.
+This program is a starting point for solving more interesting other problems.
+
+Follow the instructions to solve the ECHO problem.
+** Input
+   A sequence of integers (at most 200000) between 1 and 1000000.
+** Output
+   The sequence given as input. Print one integer per line.
+** Example
+#+BEGIN_EXAMPLE
+ Input:
+ 2
+ 10
+ 20
+
+ Output:
+ 2
+ 10
+ 20
+#+END_EXAMPLE
+** Answers
+
+The repository contains answers for the languages listed below.
+#+BEGIN_SRC bash :exports results :results output  
+    ls - 1 ECHO* | awk -F"." '{print $NF}' | uniq | tr '\n' ' ' 
+#+END_SRC
+
+#+RESULTS:
+: c java py R rkt 
+
+** Test Cases
+   Some useful test cases are located in the directory ~in~.
+
+* Documentation, Support and Issues
+  
+  Use the [[https://github.com/arnaud-m/echo/issues][issue tracker]] here on GitHub to report issues. 
+  As far as possible, provide a [[https://en.wikipedia.org/wiki/Minimal_Working_Example][Minimal Working Example]].
+

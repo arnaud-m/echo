@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 #include <cctype>
+#include <algorithm>
+
 //Nous avons besoin de pouvoir manipuler des entrées/sorties et des string
 
 int main() {

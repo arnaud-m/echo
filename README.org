@@ -38,7 +38,7 @@ The repository contains answers for the languages listed below.
 #+END_SRC
 
 #+RESULTS:
-: c java py R rkt 
+: c py cpp java py R rkt 
 
 ** Test Cases
    Some useful test cases are located in the directory ~in~.

@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class ECHO {
+/* La classe n'est pas publique pour que ce fichier puisse porter un autre nom qu'ECHO dans sphere-engine. */
+class ECHO {
  
   public static void main(String[] args) {
       // Lire un vecteur d'entiers depuis l'entrée standard.

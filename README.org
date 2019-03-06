@@ -43,6 +43,13 @@ The repository contains answers for the languages listed below.
 ** Test Cases
    Some useful test cases are located in the directory ~in~.
 
+* Test and Submit a Program
+   
+  It is highly recommended to test your program in a shell terminal before submitting it to a judge. 
+
+  For training, you can now submit a program to the sphere-engine [[https://51364960.widgets.sphere-engine.com/lp?hash=zEaCpnaksl][ECHO Widget]].
+  When it is done, you will be ready for the next step: solving the [[https://51364960.widgets.sphere-engine.com/lp?hash=WkufwLACgf][TEST problem]].
+
 * Documentation, Support and Issues
   
   Use the [[https://github.com/arnaud-m/echo/issues][issue tracker]] here on GitHub to report issues. 

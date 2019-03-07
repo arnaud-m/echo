@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-/* La classe n'est pas publique pour que ce fichier puisse porter un autre nom qu'ECHO dans sphere-engine. */
+/* La classe ne doit pas être publique. 
+ * Il est quand même recommandé de nommer le fichier ECHO.java.
+ */
 class ECHO {
  
   public static void main(String[] args) {

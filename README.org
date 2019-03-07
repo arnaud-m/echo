@@ -48,8 +48,10 @@ The repository contains answers for the languages listed below.
   It is highly recommended to test your program in a shell terminal before submitting it to a judge. 
 
   For training, you can now submit a program to the sphere-engine [[https://51364960.widgets.sphere-engine.com/lp?hash=zEaCpnaksl][ECHO Widget]].
-  When it is done, you will be ready for the next step: solving the [[https://51364960.widgets.sphere-engine.com/lp?hash=WkufwLACgf][TEST problem]].
+  When it is done, you will be ready for the next step: solving the [[https://51364960.widgets.sphere-engine.com/lp?hash=WkufwLACgf][TEST]]  and [[https://51364960.widgets.sphere-engine.com/lp?hash=RCTt7EYsvO][STEST]] problems.
 
+  This [[http://www.i3s.unice.fr/~malapert/org/teaching/R/tutoriel-UCAnCODE.html][tutorial]] explains the training process in French.
+  
 * Documentation, Support and Issues
   
   Use the [[https://github.com/arnaud-m/echo/issues][issue tracker]] here on GitHub to report issues. 
